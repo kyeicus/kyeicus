@@ -7,7 +7,8 @@
 - ⚡ Fun fact: My name has no meaning, I just made it up 😀
 
 📫 How to reach me: 
-- [https://www.kyeicus.io](www.kyeicus.vercel.app) 🌎
-- [linkedin](www.linkedIn.com/kyeicus)📖
+- <a href="www.kyeicus.github.io" target="_blank">www.kyeicus.io</a>🌎
+- [linkedin]()📖
 - [Twitter](www.twitter.com/kyeicus)🐥
 - [Facebook](www.facebook.com/kyeicus)🙂
+- <a href="www.linkedIn.com/kyeicus" target="_blank">www.kyeicus.io</a>
