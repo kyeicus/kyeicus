@@ -6,9 +6,4 @@
 - 👯 I’m looking to collaborate with you 😎
 - ⚡ Fun fact: My name has no meaning, I just made it up 😀
 
-📫 How to reach me: 
-- <a href="www.kyeicus.github.io" target="_blank">www.kyeicus.io</a>🌎
-- [linkedin]()📖
-- [Twitter](www.twitter.com/kyeicus)🐥
-- [Facebook](www.facebook.com/kyeicus)🙂
-- <a href="www.linkedIn.com/kyeicus" target="_blank">www.kyeicus.io</a>
+#### 📫 How to reach me here: <a href="https://kyeicus.github.io" target="_blank">www.kyeicus.io</a>🌎
