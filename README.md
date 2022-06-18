@@ -20,7 +20,7 @@
   
 <b>Kyeicus' GitHub Stats</b> |Kyeicus' Github Streak|
 |-|-|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeicus&theme=radical&show_icons=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyeicus&theme=radical)](https://git.io/streak-stats)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeicus&theme=radical&show_icons=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyeicus&theme=radical)](https://www.kyeicus.github.io)|
 
 
 <a href="http://www.github.com/kyeicus"><img src="https://activity-graph.herokuapp.com/graph?username=kyeicus&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
