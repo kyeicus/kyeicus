@@ -18,9 +18,21 @@
   <a href="https://www.instagram.com/kyeicus" target="_blank" rel="noreferrer"><img src="https://kwabena-abrokwa-github.s3.af-south-1.amazonaws.com/instagram.svg" width="32" height="32" /></a></p>
   
   
-<b>My GitHub Stats</b>
+<b>Kyeicus' GitHub Stats</b> |Kyeicus' Github Streak|
+|-|-|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeicus&theme=radical&show_icons=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyeicus&theme=radical)](https://git.io/streak-stats)|
 
-<a href="http://www.github.com/kyeicus"><img src="https://github-readme-stats.vercel.app/api?username=kyeicus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kyeicus's GitHub stats" /></a>
+
 <a href="http://www.github.com/kyeicus"><img src="https://activity-graph.herokuapp.com/graph?username=kyeicus&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- <a href="https://github.com/kyeicus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeicus&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+|My Top Languages here|My visitors|
+|-|-|
+ |<a href="https://github.com/kyeicus" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeicus&langs_count=10&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>|![Visitors](https://profile-counter.glitch.me/kyeicus/count.svg)|
+ 
+
+
+<!-- | |
+
+[![Kyeicus' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyeicus)](https://github.com/kyeicus/github-readme-stats) -->
+
 
