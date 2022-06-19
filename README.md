@@ -2,10 +2,9 @@
 ![ezgif-3-ed90e985e3](https://user-images.githubusercontent.com/53126629/152369560-4bd0ee56-9534-47a0-9885-2c44c002a563.gif)
 
 
-- 🔭 I’m currently working on a Private Project
 - 🌱 I’m currently learning react𝌔, Swift💻 and cooking🧑🏼‍🍳 😂
 - 👯 I’m looking to collaborate with you 😎
-#### 📫 How to reach me here: <a href="https://kyeicus.github.io" target="_blank">www.kyeicus.io</a>🌎
+#### 📫 Visit my website: <a href="https://kyeicus.github.io" target="_blank">www.kyeicus.io</a>🌎
 
 
 
@@ -20,7 +19,7 @@
   
 <b>Kyeicus' GitHub Stats</b> |Kyeicus' Github Streak|
 |-|-|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeicus&theme=radical&show_icons=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyeicus&theme=radical)](https://www.kyeicus.github.io)|
+|![Kyeicus' GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeicus&theme=radical&show_icons=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyeicus&theme=radical)](https://www.kyeicus.github.io)|
 
 
 <a href="http://www.github.com/kyeicus"><img src="https://activity-graph.herokuapp.com/graph?username=kyeicus&count_private=true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
