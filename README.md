@@ -14,7 +14,7 @@
 <a href="https://www.github.com/kyeicus" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/12598/github" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/kyeicus" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/98960/linkedin" width="32" height="32" /></a>
   <a href="https://www.twitter.com/kyeicus" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/437/twitter" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/kyeicus" target="_blank" rel="noreferrer"><img src="https://icons8.com/icon/32323/instagram" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/kyeicus" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" width="32" height="32" /></a>
   <a href="https://www.facebook.com/kyeicus" target="blank" rel="nonreferrer"><img src="https://icons8.com/icon/118466/facebookhttps://icons8.com/icon/118466/facebook" width="32" height="32" /></a></p>
   
   
